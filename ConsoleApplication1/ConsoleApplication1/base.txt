@@ -1,0 +1,3 @@
+Anatolii Marandiuc Victorovich 3000.00 2578986545 debit
+Anastasiya Mefeyod Alexandrovna 30000.00 2578986546 deposit
+Ekaterina Dvoinikova Dmitrievna -100.00 2578986559 credit

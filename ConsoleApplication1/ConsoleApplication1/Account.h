@@ -36,7 +36,7 @@ public:
 			cout<<"Ошибка. Неверная сумма."<<endl;
 		}
 	}
-	void Withdraw(double money_to_withdraw)
+	int Withdraw(double money_to_withdraw)
 	{
 		if (money_to_withdraw > 0)
 		{
@@ -48,10 +48,12 @@ public:
 			{
 				money -= money_to_withdraw;
 			}
+			return 0;
 		}
 		else
 		{
 			cout << "Ошибка. Неверная сумма." << endl;
+			return -1;
 		}
 	}
 	string Getfio()
@@ -70,5 +72,5 @@ public:
 	{
 		return type;
 	}
-
+	
 };

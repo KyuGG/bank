@@ -1,4 +1,11 @@
 ﻿  ConsoleApplication1.cpp
-c:\users\admin\source\repos\consoleapplication1\consoleapplication1\bank.h(46): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\admin\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(8): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\admin\source\repos\consoleapplication1\consoleapplication1\bank.h(57): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\consoleapplication1\consoleapplication1\bank.h(66): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\consoleapplication1\consoleapplication1\bank.h(74): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\consoleapplication1\consoleapplication1\bank.h(89): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\consoleapplication1\consoleapplication1\bank.h(110): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\consoleapplication1\consoleapplication1\bank.h(129): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\consoleapplication1\consoleapplication1\bank.h(136): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\consoleapplication1\consoleapplication1\bank.h(143): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(23): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
   ConsoleApplication1.vcxproj -> C:\Users\admin\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
